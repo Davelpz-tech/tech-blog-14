@@ -17,3 +17,6 @@
 ## Challenges:
 
 #### I ran into issues getting the application to launch on heroku. I kept getting an error saying that the server could not find the models module through the file path that I set up when connecting all the files. However the application works with no issues on the localhost connection.
+
+## colabolartors
+Jeremy Lentz - Worked with Jeremy on this project
