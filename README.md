@@ -8,10 +8,10 @@
 
 #### You can visit the app at a live heroku link, log in, or register a new account and from there you have access to see posts from different users and interact with them through the comments or make your own post
 
-### Successful local host connection
+### Unsuccessful Heroku connection
 ![Alt text](./assets/herokuconnection.PNG)
 
-### Unsuccessful Heroku connection
+### Successful localhost connection
 ![Alt text](./assets/localhostconnection.PNG)
 
 ## Challenges:
